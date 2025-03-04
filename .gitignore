@@ -1,0 +1,5 @@
+dist
+node_modules
+.env
+livelog.log
+livelog-error.log
